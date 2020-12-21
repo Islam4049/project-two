@@ -24,16 +24,20 @@ When deleting a created player it needs to be removed from the player database a
 * The developed app should be upload in ‘appstore’ and ‘GooglePlay’ as game .
 
 ## Apps Look a like...
-![](png)
+![](https://drive.google.com/file/d/1BQ8NugC11uO8GBO6p4zcqNUIe3rBpQlT/view?usp=sharing)
 
 ## Contributor: 
+* [Joe McAndrew](https://github.com/joemc9011)
+* [Ryan Gonzalez](https://github.com/ryan-gon)
 * [Brian Cardines](https://github.com/brc9087)
 * [Dharmik Patel](https://github.com/dharmik777)
 * [Md Ariful Islam](https://github.com/Islam4049)
-* [Joe McAndrew](https://github.com/joemc9011)
-* [Ryan Gonzalez](https://github.com/ryan-gon)
+
 
 
 
 ## User Stories
-As a User I want to be able to log in. As a User I want to be able to log out. As a User I want to be able to change my password. As a User I want to be able to see all players in the database. As a User I want to be able to build a team of 3 players. As a User I want to be able to remove players from my team. As a User I want to be able to create my own custom player. As a User I want to be able to update my created player's rating. As a User I want to be able to delete my created player to make another. As a User I want to be able to add my created player to my team of 
+Anyone can login the application . After login the app you will be able to Select your team name , after selecting your team name you will be able to have the playerlist of 
+PointGourd, Center , ShootingGourd and Short Forward . Yor will able to add players to your team and also delete players if the player is unavailable . You have also the 
+option of the bench to have over five players who get availble. After all You can make your own fantasy team. The Player's list is from current time of 2020 API. So anyone 
+can get the current players. So Have a Fun!
