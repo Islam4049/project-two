@@ -24,7 +24,7 @@ When deleting a created player it needs to be removed from the player database a
 * The developed app should be upload in ‘appstore’ and ‘GooglePlay’ as game .
 
 ## Apps Look a like...
-![Nba Fantasy Team](https://drive.google.com/file/d/1BQ8NugC11uO8GBO6p4zcqNUIe3rBpQlT/view?usp=sharing)
+![Nba Fantasy Team]("https://drive.google.com/file/d/1BQ8NugC11uO8GBO6p4zcqNUIe3rBpQlT/view?usp=sharing")
 
 ## Contributor: 
 * [Joe McAndrew](https://github.com/joemc9011)
