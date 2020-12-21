@@ -14,7 +14,7 @@ Deployed: https://.herokuapp.com/ Repo: https://github.com/
 We planned to begin with authentication features to make sure a user can sign up. Once that is working properly, will make sure a user can view all available players in the Database but they won't be able to add the user to their team through this feature. We will then make a "Open Pack" feature will a user will essentially open a player back of cards, which they can choose 1 to add to their team. After that they will also be able to remove a player from their team.
 
 ## Development Process
-I was able to go through things as planned, when I realized I had to implement a feature for a user to be able to update a resource. This is when I made the createdplayer resource in the back end and then made the functionality in the front end.
+We were able to go through things as planned, when we realized we had to implement a feature for a user to be able to update a resource. This is when we made the Add player resource in the back end and then made the functionality in the front end.
 
 When deleting a created player it needs to be removed from the player database as well.
 ## Future Features
