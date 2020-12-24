@@ -29,7 +29,7 @@ When deleting a created player it needs to be removed from the player database a
 * The developed app should be upload in ‘appstore’ and ‘GooglePlay’ as game .
 
 ## Walk thrugh the Video:
-[video of the generate process]()
+[video of the generate process](https://drive.google.com/file/d/1ejWvd0Af2Z8dKUVlaNwCUNc_jis6S5BI/view)
 
 
 ## Contributor: 
