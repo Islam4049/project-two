@@ -32,11 +32,12 @@ When deleting a created player it needs to be removed from the player database a
 
 
 ## Contributor: 
+* [Md Ariful Islam](https://github.com/Islam4049)
 * [Joe McAndrew](https://github.com/joemc9011)
 * [Ryan Gonzalez](https://github.com/ryan-gon)
 * [Brian Cardines](https://github.com/brc9087)
 * [Dharmik Patel](https://github.com/dharmik777)
-* [Md Ariful Islam](https://github.com/Islam4049)
+
 
 
 
