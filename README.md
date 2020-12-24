@@ -2,7 +2,7 @@
 This project provides a simple  and optimization Search tool for selecting your NBA fantasy team. The API will allow you to choose from an updated list of players separated by their positions and salaries. This will allow the users to learn how to manage players with team salary caps. 
 
 ## Link to Repo
-Deployed:https://fast-dawn-07792.herokuapp.com/  , Repo: https://github.com/joemc9011/projecttwo.git
+Deployed:  , Repo: https://github.com/Islam4049/project-two.git
 
 ## Technologies Used
 * Javascript
